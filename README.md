@@ -1,43 +1,62 @@
-# 👋 Hi, I'm Pratik Kumar  
-### 💻 Full Stack Engineer | AI/ML Enthusiast | Writer  
+# 👋 Hi, I'm Mohamed Yasser Hassan Fadel
 
-SSE at **Elucidata** | Building scalable platforms at the intersection of **data, AI/ML, and infra**. Passionate about developer experience, product thinking, and intelligent systems.
+### 💻 Full-Stack Developer | MERN Stack
+
+Computer Science student specializing in **Full-Stack Web Development** and **UI/UX design**. Building responsive, user-friendly web applications using modern technologies, with experience in **frontend, backend, RESTful APIs, authentication, and database management**.
 
 ### Tech Snapshot
 
 ```mermaid
 mindmap
   root((Skills))
-    ((Languages))
-      Python
+    ((Frontend))
+      HTML
+      CSS
       JavaScript
       TypeScript
-      R
-      SQL
-      Bash
-      PowerShell
-    ((Frameworks))
-      React
-      Flask
-      Django
-      FastAPI
-      Express
-      Electron
-      Next.js
-      Dash
-      R-Shiny
-      Streamlit
-      Pydantic
-      SQLAlchemy
-    ((AI/ML))
-    ((DevOps))
-    ((Cloud))
-      AWS
+      React.js
+      Bootstrap
+      Responsive Design
+      Mobile-First Design
+    ((Backend))
+      Node.js
+      Express.js
+      RESTful APIs
+      MVC Architecture
+    ((Database))
+      MongoDB
+      Mongoose
+    ((Programming))
+      OOP
+      Promises
+      Async/Await
+      Error Handling
+      Debugging
+    ((Authentication & Security))
+      JWT Authentication
+      Role-Based Authorization
+      API Validation
+      Password Hashing
+    ((Tools))
+      Git
+      GitHub
+      Postman
+      VS Code
+      JSON
 ```
 
-### Connect with Me  
-- [Portfolio](https://pratik-kumar.netlify.app)
-- [LinkedIn](https://linkedin.com/in/pratik-kumar04)
-- [GitHub](https://github.com/pr2tik1)
-- [Substack](https://pratikkumar.substack.com)
-- **pr2tik1@gmail.com**
+### 🚀 Projects
+
+* **Course Management System** — Course management platform with Teacher/Student roles, JWT authentication, MongoDB, grades, attendance, and academic records.
+* **E-Commerce Platform** — Single-vendor online store with product management, JWT authentication, responsive UI, MERN Stack, and MVC architecture.
+
+### 🎓 Education
+
+**Bachelor of Computer Science — Ongoing**
+Institute of Computers & Information – 10th of Ramadan University, Egypt.
+
+### 🔗 Connect with Me
+
+* **Portfolio:** famous-moonbeam-0cb681.netlify.app
+* **GitHub:** GitHub profile
+* **Email:** [m.yasser.div@gmail.com](mailto:m.yasser.div@gmail.com)
