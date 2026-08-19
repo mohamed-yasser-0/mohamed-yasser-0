@@ -58,5 +58,5 @@ Institute of Computers & Information – 10th of Ramadan University, Egypt.
 ### 🔗 Connect with Me
 
 * **Portfolio:** famous-moonbeam-0cb681.netlify.app
-* **GitHub:** GitHub profile
+* **GitHub:** [GitHub profile](https://github.com/mohamed-yasser-0)
 * **Email:** [m.yasser.div@gmail.com](mailto:m.yasser.div@gmail.com)
