@@ -45,6 +45,12 @@ mindmap
       JSON
 ```
 
+### 🔥 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-yasser)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-yasser\&show_icons=true\&hide_border=true)
+
 ### 🚀 Projects
 
 * **Course Management System** — Course management platform with Teacher/Student roles, JWT authentication, MongoDB, grades, attendance, and academic records.
