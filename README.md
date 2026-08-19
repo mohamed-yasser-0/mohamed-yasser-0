@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratik Kumar  
+### 💻 Full Stack Engineer | AI/ML Enthusiast | Writer  
 
-<!--
-**mohamed-yasser-0/mohamed-yasser-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SSE at **Elucidata** | Building scalable platforms at the intersection of **data, AI/ML, and infra**. Passionate about developer experience, product thinking, and intelligent systems.
 
-Here are some ideas to get you started:
+### Tech Snapshot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```mermaid
+mindmap
+  root((Skills))
+    ((Languages))
+      Python
+      JavaScript
+      TypeScript
+      R
+      SQL
+      Bash
+      PowerShell
+    ((Frameworks))
+      React
+      Flask
+      Django
+      FastAPI
+      Express
+      Electron
+      Next.js
+      Dash
+      R-Shiny
+      Streamlit
+      Pydantic
+      SQLAlchemy
+    ((AI/ML))
+    ((DevOps))
+    ((Cloud))
+      AWS
+```
+
+### Connect with Me  
+- [Portfolio](https://pratik-kumar.netlify.app)
+- [LinkedIn](https://linkedin.com/in/pratik-kumar04)
+- [GitHub](https://github.com/pr2tik1)
+- [Substack](https://pratikkumar.substack.com)
+- **pr2tik1@gmail.com**
